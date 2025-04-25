@@ -1,3 +1,9 @@
-out/
-*.iml
+# IntelliJ project files
 .idea/
+
+# Output directory
+out/
+
+# IntelliJ module file
+*.iml
+
